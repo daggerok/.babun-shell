@@ -10,7 +10,7 @@ Best shell for windows ever (zsh)
    ```
 3. add idea integration:
    ```
-   "C:/Users/maksim.kostromin/.babun/cygwin/bin/zsh.exe" -c '/bin/env CHERE_INVOKING=1 /bin/zsh.exe'
+   "%userprofile%/.babun/cygwin/bin/zsh.exe" -c '/bin/env CHERE_INVOKING=1 /bin/zsh.exe'
    ```
 ![idea -> settings -> Terminal](./idea.png)
 <!--
