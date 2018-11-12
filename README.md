@@ -32,4 +32,4 @@ finnaly, set babun as default one:
 
 ![ConEmu -> Settings -> Startup](./ConEmu-2.png)
 
-read link:http://babun.github.io/faq.html[official babun guide: 12) How do I integrate Babun with ConEmu / cmder]
+read ![official babun guide: 12) How do I integrate Babun with ConEmu / cmder](http://babun.github.io/faq.html)
